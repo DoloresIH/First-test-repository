@@ -1,2 +1,2 @@
 # First-test-repository
-Github workshop
+Github workshop - learnign to create repository
